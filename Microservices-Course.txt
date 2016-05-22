@@ -1,0 +1,111 @@
+Microservicios
+---------------------------------------
+Que Es?
+Ventajas?
+Niveles
+Arquitectura
+
+
+Aplicacion a construir
+------------------------------------------------
+Muber
+Herramientas
+
+
+Config Server
+------------------------------------------------
+
+Como se ha benido trabajando
+
+Configurar tu Repositorio
+
+Configurar el config server
+
+Realizar llamadas al config server.
+
+Encriptar data.
+
+Creando un microservicio Car-Management-Microservice.
+
+Configurandolo para llamar al config Server en el microservicio.
+
+Configurando el Live Reload de configuracion parte 1 (Instalando Erland y RabbitMQ)
+
+Configurando el Live Reaload de configuracion parte 2 (Configurando el microservicio)
+
+Probando el Live Reload.
+
+
+
+Eureka
+-------------------------------
+
+Que es?
+
+Creando el server de eureka.
+
+Configurando el microservicio para registarse en Eureka
+
+
+Los Microservicios
+---------------------------------
+Overview de la aplicacion
+
+Car-Management-Service
+
+Driver-Management-Service
+
+
+Intercomunicacion (Ribbon)
+-------------------------------------
+Problematica
+
+Entendiendo Ribbon
+
+Utilizando Ribbon
+
+
+Circuit Breaker
+-------------------------------------
+Problema
+
+Hystrix
+
+Configurando Hystrix en los microservicios
+
+PRobando su funcionamiento
+
+Creando el Dashboard
+
+Turbine
+
+
+
+Edge Server
+---------------------------------
+Problema
+
+Zuul Server
+
+Configurando Zuul
+
+Viendo como funciona
+
+
+Seguridad
+------------------------------------
+
+OATUH Server.
+-------------------------
+
+
+
+
+Creando clientes
+----------------------------------
+Angular Client
+
+
+
+
+
